@@ -232,9 +232,6 @@
 		margin-bottom: 1rem;
 	}
 }
-/* Dishes Grid */
-
-/* Footer Styles */
 footer {
 	background: var(--lightGreen-1);
 	padding-top: 5rem;
@@ -334,9 +331,7 @@ footer {
 		text-align: left;
 	}
 }
-/* End Footer Styles */
 
-/* Why us forms*/
 #form {
 	padding: 5rem 0;
 }

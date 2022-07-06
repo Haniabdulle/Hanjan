@@ -15,7 +15,7 @@
 	margin: 0 auto;
 }
 .hero__heading {
-	font-family: Poppins;
+	
 	font-weight: 600;
 	line-height: 1.4em;
 	text-align: center;
@@ -70,7 +70,7 @@
 		flex: 1;
 	}
 }
-/* Our Specials Section Styles */
+
 #ourSpecials {
 	padding-top: 10rem;
 }
@@ -186,14 +186,12 @@
 		width: 100%;
 	}
 }
-/* Discount Styles */
+
 .discount__wrapper {
 	display: flex;
 	flex-direction: column;
 	padding: 1.5rem;
 	border-radius: 12px;
-	background: var(--lightGreen-1) url(./images/discount-illustration.png)
-		no-repeat bottom right / 100px;
 }
 .discount__images {
 	display: flex;
@@ -393,8 +391,7 @@
 		margin-bottom: 2rem;
 	}
 }
-/* End EventsInfo Styles*/
-/* WhyUs Section */
+
 .whyUs__wrapper {
 	display: flex;
 	align-items: center;
@@ -475,9 +472,6 @@
 	}
 }
 
-/* End WhyUs Section */
-
-/* Testimonial Section */
 .testimonial__wrapper {
 	max-width: 400px;
 	margin: 0 auto;
@@ -562,9 +556,7 @@
 		flex: auto;
 	}
 }
-/* End Testimonial Section */
 
-/* Newsletter Section */
 .newsletter__wrapper {
 	display: flex;
 	flex-direction: column;
@@ -609,7 +601,7 @@
 	font-size: 1.4rem;
 	padding: 0 2rem;
 	height: 100%;
-	/* width: 100%; */
+	
 	position: absolute;
 	right: 0;
 	top: 0;
