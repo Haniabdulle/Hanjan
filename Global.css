@@ -1,14 +1,22 @@
-html {
-	font-size: 10px;
-	
- }
+
+section {
+	padding: 100px 0;
+}
+
+
 
 
  .img-responsive {
     height: auto;
-    width: auto;
+    width: auto;      
     max-height: 72px;
     max-width: 250px;
+}
+
+body{
+	background-color: lightblue;
+	
+
 }
 
 
@@ -40,14 +48,8 @@ img {
 	height: 100%;
 	object-fit: contain;
 }
-h1,
-h2,
-h3,
-h4 {
-	font-family: Poppins;
-}
+
 p {
-	font-family: Raleway;
 	font-weight: 400;
 	line-height: 1.4em;
 	font-size: 1.8rem;
